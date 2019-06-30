@@ -1,3 +1,7 @@
 [submodule "blog/devops-week/themes/ananke"]
 	path = blog/devops-week/themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "blog/devops-week/public"]
+	path = blog/devops-week/public
+	url = git@github.com:joaniznardo/joaniznardo.github.io.git
+	branch = master
